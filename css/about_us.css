@@ -1,0 +1,17 @@
+.about_us{ width: 100%; height: auto; margin: 0 auto;overflow: hidden; border-top: 1px solid #c4c4c4;}
+.about_us_main{ width: 1000px; height: 100px;  margin: 0 auto;}
+.about_us_left{ float: left; width: 187px; height: auto; margin-right: 6px;}
+.about_us_left_bg{ background: url(../img/aboutUs_bg_nav.png) no-repeat; width: 187px; height: 41px; border-bottom: 1px solid #d8d2d2;}
+.about_us_list{ width: 183px; height: auto; border-left: 1px solid #d9d3d3;border-right: 1px solid #d9d3d3;padding-bottom: 17px;}
+.about_us_list li{ width: 183px; height: 23px; margin: 0 auto; text-align: center; line-height: 23px; margin-top: 4px;}
+.about_us_list li a{ font-family: "微软雅黑"; font-size: 12px; color: #484848;display: block;}
+.about_us_list li a:hover{color: #017bc1;background: url(../img/about_us_contact.png) no-repeat; width: 183px; height: 25px;}
+.abput_us_pig{ background: url(../img/about_qq.png) no-repeat; width: 185px; height: 130px;border-left: 1px solid #d9d3d3;border-right: 1px solid #d9d3d3;}
+.about_us_right{ float: left; width: 805px; height: auto; margin-bottom: 90px; padding-top: 21px; border-left: 1px solid #c5c5c5;}
+.about_us_txt{width: 745px; height: auto; margin: 0 auto;}
+.about_us_txt span{ font-family: "微软雅黑"; font-size: 18px; color: #4c4c4c; font-weight: 600; margin-top: 32px; display: block;line-height: 30px; height: 30px;}
+.about_us_txt p{font-family: "微软雅黑"; font-size: 12px; line-height: 24px; text-indent: 2em;}
+.list_nav_all{width: 1000px; height: 67px; margin: 0 auto;}
+.list_nav_txt{ float:right; font-family: "微软雅黑"; font-size: 12px; color: #8d8d8d; line-height: 67px; height: 67px;}
+.list_nav_txt a{color:#8d8d8d;}
+.list_nav_txt a:hover{ color: #006ba7;}

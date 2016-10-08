@@ -1,0 +1,21 @@
+.list_advert{width: 100%; height: 256px; margin: 27px auto 0; position: relative; background: #0c65a5; overflow: hidden; border-bottom: 3px solid #4ab0c5;}
+.list_advert_bg li img{ position: absolute; left: 50%; top: 0; margin-left: -960px; width: 1920px; height: 256px; overflow: hidden;}
+
+
+.list_nav{ width: 100%; height: 67px; background: #eaeaea; overflow: hidden; margin: 0 auto;}
+.list_nav ul{width: 1000px; margin: 14px auto 0;}
+.list_nav ul li{ float: left; height: 34px; line-height: 34px;padding:0 24px;}
+.list_nav ul li a{ color: #222222; font-family: "微软雅黑"; font-size: 14px;padding-left: 24px; padding-right: 24px;border: 1px solid #eaeaea;} 
+.list_nav ul li a:hover{color: #0771ba; height: 34px; border-color:#d6d6d6; background: #FFFFFF; display: block;position: relative; border-radius: 5px;}
+.list_nav ul li a:hover i{ position: absolute; background: url(../img/smallcss.png) no-repeat -567px -785px; width: 3px; height: 15px; left: 13px; top: 50%; margin-top: -8px;}
+
+
+
+.list_main{ width: 100%; height: auto; background: #f6f6f6; overflow: hidden; margin: 0 auto;}
+.list_flow{ width: 1000px; height: auto; overflow: hidden; margin: 13px auto 105px;}
+.list_main ul{ width: 110%; height: auto; overflow: hidden;}
+.list_main ul li{float: left; margin-left: 27px;   margin-top: 50px; height: 170px;}
+.list_main ul li a{cursor: pointer;padding: 5px 4px 5px 4px; border: 1px solid #dcdcdc;display: block;width: 217px;}
+.list_main ul li span{ position: relative;  width: 150px; height: 18px; }
+.list_main ul li span i{position: absolute; left: 16px; top: 6px;color: #222222; font-size: 14px; font-family: "微软雅黑";font-style: normal; display: block; width: 100px;}
+.list_main ul li span p{ background: url(../img/smallcss.png) no-repeat -551px -769px; width: 6px; height: 6px; position: absolute; left: 5px; top: 13px;}
